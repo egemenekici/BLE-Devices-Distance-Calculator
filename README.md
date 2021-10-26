@@ -8,11 +8,12 @@ Python project made in Linux environment. Nearby BLE devices are scanned and est
 
 </p>
 
-# Dependencies
+Dependencies
+------------
   1) Python Bluepy Lib
-  2) 1-meter RSSI value of the BLE device to be used
+  2) 1-meter RSSI value of the BLE device to be used || Tx Power value of the BLE device to be used
 
-BLUEPY Installation
+Bluepy Installation
 ------------
 
 The code needs an executable `bluepy-helper` to be compiled from C source. This is done
