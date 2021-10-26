@@ -12,7 +12,8 @@ Python project made in Linux environment. Nearby BLE devices are scanned and est
   1) Python Bluepy Lib
   2) 1-meter RSSI value of the BLE device to be used
 
-* BLUEPY
+BLUEPY Installation
+------------
 
 The code needs an executable `bluepy-helper` to be compiled from C source. This is done
 automatically if you use the recommended pip installation method (see below). Otherwise,
